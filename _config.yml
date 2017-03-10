@@ -7,7 +7,7 @@
 
 # Site settings
 title: Jacob's Webpage
-email: I dont feel like sharing my email.
+email: jacob@wasecawireless.
 description: > # this means to ignore newlines until "baseurl:"
  This is a test webpage made by Jacob
 baseurl: "" # the subpath of your site, e.g. /blog
